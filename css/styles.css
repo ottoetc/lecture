@@ -1,11 +1,6 @@
-h2.intro {
+.intro {
   color: grey;
   font-family: monospace;
-}
-p.intro {
-  font-style: italic;
-}
-img.intro {
   outline-color: yellow;
   outline-width: thick;
   outline-style: dashed;
